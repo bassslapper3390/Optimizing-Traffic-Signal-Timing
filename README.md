@@ -52,8 +52,5 @@ We would like to express our gratitude to the UHackathon 4.0 organizers and all 
 
 Thank you for visiting our GitHub repository! Feel free to explore the code and documentation to learn more about our Computer Vision-based traffic light controller. Should you have any questions or feedback, don't hesitate to reach out. Happy hacking!
 
-[Team Name]
+Solemn Seekers
 
-[Contact Information]
-
-[Date]
