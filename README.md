@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Welcome to our project repository for the Computer Vision-based traffic light controller developed for the [Hackathon Name]. This project aims to create an intelligent traffic management system that adapts to real-time traffic conditions, optimizing traffic flow and reducing congestion.
+Welcome to our project repository for the Computer Vision-based traffic light controller developed for the UHackathon 4.0. This project aims to create an intelligent traffic management system that adapts to real-time traffic conditions, optimizing traffic flow and reducing congestion.
 
 ## Abstract
 
-Our project proposes a Computer Vision-based traffic light controller that uses live CCTV camera feeds attached to traffic lights. The system employs the YOLO (You Only Look Once) AI model to detect vehicles and calculate traffic density at signals. By classifying vehicles into car, bike, bus/truck, or rickshaw categories, precise green signal timings are set. The algorithm adjusts traffic signal timers based on vehicle density and queue lengths, significantly improving traffic flow and minimizing delays, congestion, and waiting time. As a result, fuel consumption and pollution are reduced, promising enhanced traffic management and overall transportation efficiency.
+Our project proposes a Computer Vision-based traffic light controller that uses live CCTV camera feeds attached to traffic lights. The system employs the YOLO AI model to detect vehicles and calculate traffic density at signals. By classifying vehicles into car, bike, bus/truck, or rickshaw categories, precise green signal timings are set. The algorithm adjusts traffic signal timers based on vehicle density and queue lengths, significantly improving traffic flow and minimizing delays, congestion, and waiting time. As a result, fuel consumption and pollution are reduced, promising enhanced traffic management and overall transportation efficiency.
 
 ## Methodology
 
