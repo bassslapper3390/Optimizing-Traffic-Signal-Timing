@@ -29,6 +29,8 @@ Our methodology encompasses the following steps:
 8. **Real-Time Adaptation**: Signal timings and parameters are dynamically adjusted to adapt to changing traffic patterns.
 
 9. **Testing and Validation**: Extensive simulations and real-world tests validate the system's efficiency and accuracy.
+<img width="439" alt="image" src="https://github.com/bassslapper3390/Optimizing-Traffic-Signal-Timing/assets/75876257/12057cb3-d808-493a-af1d-f20984fd2738">
+
 
 ## Getting Started
 
